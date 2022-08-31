@@ -2,6 +2,13 @@
 
 - 🔭 No momento estou trabalhando com estagiario em desenvolvimeto web.
 - 🌱 atualmente estou aprendendo PHP. 
+##
+
+<div align="center">
+  <a href="https://github.com/MauricioAraujoo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MauricioAraujoo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
+
 
 ##
 ### Tecnologias que estou usando 
@@ -13,6 +20,15 @@
   <img align="center" alt="MauricioAraujoo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img "center" alt="MauricioAraujoo-PHP" height="30" width="40"  
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  
+ ##
+ 
+ <div>
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ </div>
+  
+  
+  
 <!--
 
 - 🔭 I’m currently working on ...
