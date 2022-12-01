@@ -1,7 +1,7 @@
 ### Olá sou Mauricio Araújo.
 
 - 🔭 No momento estou trabalhando com estagiario em desenvolvimeto web.
-- 🌱 atualmente estou aprendendo PHP. 
+- 🌱 Frontend Developer. 
 ##
 
 <div align="center">
